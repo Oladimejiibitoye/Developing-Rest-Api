@@ -1,3 +1,3 @@
 # Developing Rest Api
 
-creating Rest Api project and implementing Routes Set-up
+Developing Rest Api for a Social Post App
